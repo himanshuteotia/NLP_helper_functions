@@ -1,0 +1,751 @@
+,moviename,year,description,genre,movielength,cast,imdb_rating,imdb_ratingbasedon,tomatoes_audscore,tomatoes_rating,tomatoes_ratingbasedon,rank
+0,The Shawshank Redemption,1994,,,,"Frank Darabont (dir.), Tim Robbins, Morgan Freeman",,,,,,1
+1,The Godfather,1972,,,,"Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",,,,,,2
+2,The Godfather: Part II,1974,,,,"Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",,,,,,3
+3,The Dark Knight,2008,,,,"Christopher Nolan (dir.), Christian Bale, Heath Ledger",,,,,,4
+4,12 Angry Men,1957,,,,"Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",,,,,,5
+5,Schindler's List,1993,,,,"Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",,,,,,6
+6,The Lord of the Rings: The Return of the King,2003,,,,"Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",,,,,,7
+7,Pulp Fiction,1994,,,,"Quentin Tarantino (dir.), John Travolta, Uma Thurman",,,,,,8
+8,"Il buono, il brutto, il cattivo",1966,,,,"Sergio Leone (dir.), Clint Eastwood, Eli Wallach",,,,,,9
+9,The Lord of the Rings: The Fellowship of the Ring,2001,,,,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",,,,,,10
+10,Fight Club,1999,,,,"David Fincher (dir.), Brad Pitt, Edward Norton",,,,,,11
+11,Forrest Gump,1994,,,,"Robert Zemeckis (dir.), Tom Hanks, Robin Wright",,,,,,12
+12,Inception,2010,,,,"Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",,,,,,13
+13,Star Wars: Episode V - The Empire Strikes Back,1980,,,,"Irvin Kershner (dir.), Mark Hamill, Harrison Ford",,,,,,14
+14,The Lord of the Rings: The Two Towers,2002,,,,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",,,,,,15
+15,The Matrix,1999,,,,"Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",,,,,,16
+16,Goodfellas,1990,,,,"Martin Scorsese (dir.), Robert De Niro, Ray Liotta",,,,,,17
+17,One Flew Over the Cuckoo's Nest,1975,,,,"Milos Forman (dir.), Jack Nicholson, Louise Fletcher",,,,,,18
+18,Shichinin no samurai,1954,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",,,,,,19
+19,Se7en,1995,,,,"David Fincher (dir.), Morgan Freeman, Brad Pitt",,,,,,20
+20,Cidade de Deus,2002,,,,"Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",,,,,,21
+21,La vita è bella,1997,,,,"Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",,,,,,22
+22,The Silence of the Lambs,1991,,,,"Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",,,,,,23
+23,It's a Wonderful Life,1946,,,,"Frank Capra (dir.), James Stewart, Donna Reed",,,,,,24
+24,Star Wars,1977,,,,"George Lucas (dir.), Mark Hamill, Harrison Ford",,,,,,25
+25,Gisaengchung,2019,,,,"Bong Joon Ho (dir.), Kang-ho Song, Sun-kyun Lee",,,,,,26
+26,Saving Private Ryan,1998,,,,"Steven Spielberg (dir.), Tom Hanks, Matt Damon",,,,,,27
+27,Sen to Chihiro no kamikakushi,2001,,,,"Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",,,,,,28
+28,The Green Mile,1999,,,,"Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",,,,,,29
+29,Interstellar,2014,,,,"Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",,,,,,30
+30,Léon,1994,,,,"Luc Besson (dir.), Jean Reno, Gary Oldman",,,,,,31
+31,The Usual Suspects,1995,,,,"Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",,,,,,32
+32,Seppuku,1962,,,,"Masaki Kobayashi (dir.), Tatsuya Nakadai, Akira Ishihama",,,,,,33
+33,Joker,2019,,,,"Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",,,,,,34
+34,The Lion King,1994,,,,"Roger Allers (dir.), Matthew Broderick, Jeremy Irons",,,,,,35
+35,American History X,1998,,,,"Tony Kaye (dir.), Edward Norton, Edward Furlong",,,,,,36
+36,Back to the Future,1985,,,,"Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",,,,,,37
+37,Terminator 2: Judgment Day,1991,,,,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",,,,,,38
+38,The Pianist,2002,,,,"Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",,,,,,39
+39,Modern Times,1936,,,,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",,,,,,40
+40,Psycho,1960,,,,"Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",,,,,,41
+41,Gladiator,2000,,,,"Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",,,,,,42
+42,City Lights,1931,,,,"Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",,,,,,43
+43,The Intouchables,2011,,,,"Olivier Nakache (dir.), François Cluzet, Omar Sy",,,,,,44
+44,The Departed,2006,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",,,,,,45
+45,Whiplash,2014,,,,"Damien Chazelle (dir.), Miles Teller, J.K. Simmons",,,,,,46
+46,Once Upon a Time in the West,1968,,,,"Sergio Leone (dir.), Henry Fonda, Charles Bronson",,,,,,47
+47,The Prestige,2006,,,,"Christopher Nolan (dir.), Christian Bale, Hugh Jackman",,,,,,48
+48,1917,2019,,,,"Sam Mendes (dir.), Dean-Charles Chapman, George MacKay",,,,,,49
+49,Casablanca,1942,,,,"Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",,,,,,50
+50,Hotaru no haka,1988,,,,"Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",,,,,,51
+51,Rear Window,1954,,,,"Alfred Hitchcock (dir.), James Stewart, Grace Kelly",,,,,,52
+52,Nuovo Cinema Paradiso,1988,,,,"Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",,,,,,53
+53,Alien,1979,,,,"Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",,,,,,54
+54,Raiders of the Lost Ark,1981,,,,"Steven Spielberg (dir.), Harrison Ford, Karen Allen",,,,,,55
+55,Apocalypse Now,1979,,,,"Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",,,,,,56
+56,Memento,2000,,,,"Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",,,,,,57
+57,The Great Dictator,1940,,,,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",,,,,,58
+58,The Lives of Others,2006,,,,"Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",,,,,,59
+59,Django Unchained,2012,,,,"Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",,,,,,60
+60,Avengers: Infinity War,2018,,,,"Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",,,,,,61
+61,Avengers: Endgame,2019,,,,"Anthony Russo (dir.), Robert Downey Jr., Chris Evans",,,,,,62
+62,The Shining,1980,,,,"Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",,,,,,63
+63,Paths of Glory,1957,,,,"Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",,,,,,64
+64,WALL·E,2008,,,,"Andrew Stanton (dir.), Ben Burtt, Elissa Knight",,,,,,65
+65,Spider-Man: Into the Spider-Verse,2018,,,,"Bob Persichetti (dir.), Shameik Moore, Jake Johnson",,,,,,66
+66,Sunset Blvd.,1950,,,,"Billy Wilder (dir.), William Holden, Gloria Swanson",,,,,,67
+67,Mononoke-hime,1997,,,,"Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",,,,,,68
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,,,,"Stanley Kubrick (dir.), Peter Sellers, George C. Scott",,,,,,69
+69,Oldeuboi,2003,,,,"Chan-wook Park (dir.), Min-sik Choi, Ji-Tae Yoo",,,,,,70
+70,Witness for the Prosecution,1957,,,,"Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",,,,,,71
+71,The Dark Knight Rises,2012,,,,"Christopher Nolan (dir.), Christian Bale, Tom Hardy",,,,,,72
+72,Once Upon a Time in America,1984,,,,"Sergio Leone (dir.), Robert De Niro, James Woods",,,,,,73
+73,Aliens,1986,,,,"James Cameron (dir.), Sigourney Weaver, Michael Biehn",,,,,,74
+74,Kimi no na wa.,2016,,,,"Makoto Shinkai (dir.), Ryûnosuke Kamiki, Mone Kamishiraishi",,,,,,75
+75,American Beauty,1999,,,,"Sam Mendes (dir.), Kevin Spacey, Annette Bening",,,,,,76
+76,Coco,2017,,,,"Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",,,,,,77
+77,Braveheart,1995,,,,"Mel Gibson (dir.), Mel Gibson, Sophie Marceau",,,,,,78
+78,Das Boot,1981,,,,"Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",,,,,,79
+79,Tengoku to jigoku,1963,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Yutaka Sada",,,,,,80
+80,3 Idiots,2009,,,,"Rajkumar Hirani (dir.), Aamir Khan, Madhavan",,,,,,81
+81,Star Wars: Episode VI - Return of the Jedi,1983,,,,"Richard Marquand (dir.), Mark Hamill, Harrison Ford",,,,,,82
+82,Toy Story,1995,,,,"John Lasseter (dir.), Tom Hanks, Tim Allen",,,,,,83
+83,Taare Zameen Par,2007,,,,"Aamir Khan (dir.), Darsheel Safary, Aamir Khan",,,,,,84
+84,Amadeus,1984,,,,"Milos Forman (dir.), F. Murray Abraham, Tom Hulce",,,,,,85
+85,Reservoir Dogs,1992,,,,"Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",,,,,,86
+86,Inglourious Basterds,2009,,,,"Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",,,,,,87
+87,Good Will Hunting,1997,,,,"Gus Van Sant (dir.), Robin Williams, Matt Damon",,,,,,88
+88,2001: A Space Odyssey,1968,,,,"Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",,,,,,89
+89,M - Eine Stadt sucht einen Mörder,1931,,,,"Fritz Lang (dir.), Peter Lorre, Ellen Widmann",,,,,,90
+90,Requiem for a Dream,2000,,,,"Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",,,,,,91
+91,Vertigo,1958,,,,"Alfred Hitchcock (dir.), James Stewart, Kim Novak",,,,,,92
+92,Dangal,2016,,,,"Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",,,,,,93
+93,Eternal Sunshine of the Spotless Mind,2004,,,,"Michel Gondry (dir.), Jim Carrey, Kate Winslet",,,,,,94
+94,Citizen Kane,1941,,,,"Orson Welles (dir.), Orson Welles, Joseph Cotten",,,,,,95
+95,Jagten,2012,,,,"Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",,,,,,96
+96,Full Metal Jacket,1987,,,,"Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",,,,,,97
+97,North by Northwest,1959,,,,"Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",,,,,,98
+98,A Clockwork Orange,1971,,,,"Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",,,,,,99
+99,Snatch,2000,,,,"Guy Ritchie (dir.), Jason Statham, Brad Pitt",,,,,,100
+100,The Kid,1921,,,,"Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",,,,,,101
+101,Ladri di biciclette,1948,,,,"Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",,,,,,102
+102,Singin' in the Rain,1952,,,,"Stanley Donen (dir.), Gene Kelly, Donald O'Connor",,,,,,103
+103,Scarface,1983,,,,"Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",,,,,,104
+104,Amélie,2001,,,,"Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",,,,,,105
+105,Taxi Driver,1976,,,,"Martin Scorsese (dir.), Robert De Niro, Jodie Foster",,,,,,106
+106,Lawrence of Arabia,1962,,,,"David Lean (dir.), Peter O'Toole, Alec Guinness",,,,,,107
+107,Toy Story 3,2010,,,,"Lee Unkrich (dir.), Tom Hanks, Tim Allen",,,,,,108
+108,The Sting,1973,,,,"George Roy Hill (dir.), Paul Newman, Robert Redford",,,,,,109
+109,Capharnaüm,2018,,,,"Nadine Labaki (dir.), Zain Al Rafeea, Yordanos Shiferaw",,,,,,110
+110,Metropolis,1927,,,,"Fritz Lang (dir.), Brigitte Helm, Alfred Abel",,,,,,111
+111,Per qualche dollaro in più,1965,,,,"Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",,,,,,112
+112,Jodaeiye Nader az Simin,2011,,,,"Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",,,,,,113
+113,Ikiru,1952,,,,"Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",,,,,,114
+114,Double Indemnity,1944,,,,"Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",,,,,,115
+115,To Kill a Mockingbird,1962,,,,"Robert Mulligan (dir.), Gregory Peck, John Megna",,,,,,116
+116,The Apartment,1960,,,,"Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",,,,,,117
+117,Indiana Jones and the Last Crusade,1989,,,,"Steven Spielberg (dir.), Harrison Ford, Sean Connery",,,,,,118
+118,Incendies,2010,,,,"Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",,,,,,119
+119,Up,2009,,,,"Pete Docter (dir.), Edward Asner, Jordan Nagai",,,,,,120
+120,L.A. Confidential,1997,,,,"Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",,,,,,121
+121,Monty Python and the Holy Grail,1975,,,,"Terry Gilliam (dir.), Graham Chapman, John Cleese",,,,,,122
+122,Heat,1995,,,,"Michael Mann (dir.), Al Pacino, Robert De Niro",,,,,,123
+123,Die Hard,1988,,,,"John McTiernan (dir.), Bruce Willis, Alan Rickman",,,,,,124
+124,Rashômon,1950,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",,,,,,125
+125,Yôjinbô,1961,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",,,,,,126
+126,Batman Begins,2005,,,,"Christopher Nolan (dir.), Christian Bale, Michael Caine",,,,,,127
+127,Unforgiven,1992,,,,"Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",,,,,,128
+128,Green Book,2018,,,,"Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",,,,,,129
+129,Der Untergang,2004,,,,"Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",,,,,,130
+130,Bacheha-Ye aseman,1997,,,,"Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",,,,,,131
+131,Some Like It Hot,1959,,,,"Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",,,,,,132
+132,Hauru no ugoku shiro,2004,,,,"Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",,,,,,133
+133,Idi i smotri,1985,,,,"Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",,,,,,134
+134,The Great Escape,1963,,,,"John Sturges (dir.), Steve McQueen, James Garner",,,,,,135
+135,Tonari no Totoro,1988,,,,"Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",,,,,,136
+136,Ran,1985,,,,"Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",,,,,,137
+137,All About Eve,1950,,,,"Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",,,,,,138
+138,A Beautiful Mind,2001,,,,"Ron Howard (dir.), Russell Crowe, Ed Harris",,,,,,139
+139,Casino,1995,,,,"Martin Scorsese (dir.), Robert De Niro, Sharon Stone",,,,,,140
+140,Pan's Labyrinth,2006,,,,"Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",,,,,,141
+141,Raging Bull,1980,,,,"Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",,,,,,142
+142,El secreto de sus ojos,2009,,,,"Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",,,,,,143
+143,"Lock, Stock and Two Smoking Barrels",1998,,,,"Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",,,,,,144
+144,The Wolf of Wall Street,2013,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",,,,,,145
+145,The Treasure of the Sierra Madre,1948,,,,"John Huston (dir.), Humphrey Bogart, Walter Huston",,,,,,146
+146,Judgment at Nuremberg,1961,,,,"Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",,,,,,147
+147,"Three Billboards Outside Ebbing, Missouri",2017,,,,"Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",,,,,,148
+148,Babam ve Oglum,2005,,,,"Çagan Irmak (dir.), Çetin Tekindor, Fikret Kuskan",,,,,,149
+149,Chinatown,1974,,,,"Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",,,,,,150
+150,There Will Be Blood,2007,,,,"Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",,,,,,151
+151,The Gold Rush,1925,,,,"Charles Chaplin (dir.), Charles Chaplin, Mack Swain",,,,,,152
+152,Dial M for Murder,1954,,,,"Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",,,,,,153
+153,V for Vendetta,2005,,,,"James McTeigue (dir.), Hugo Weaving, Natalie Portman",,,,,,154
+154,Inside Out,2015,,,,"Pete Docter (dir.), Amy Poehler, Bill Hader",,,,,,155
+155,Det sjunde inseglet,1957,,,,"Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",,,,,,156
+156,Warrior,2011,,,,"Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",,,,,,157
+157,Ford v. Ferrari,2019,,,,"James Mangold (dir.), Matt Damon, Christian Bale",,,,,,158
+158,No Country for Old Men,2007,,,,"Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",,,,,,159
+159,Trainspotting,1996,,,,"Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",,,,,,160
+160,The Elephant Man,1980,,,,"David Lynch (dir.), Anthony Hopkins, John Hurt",,,,,,161
+161,Shutter Island,2010,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",,,,,,162
+162,Room,2015,,,,"Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",,,,,,163
+163,The Sixth Sense,1999,,,,"M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",,,,,,164
+164,The Thing,1982,,,,"John Carpenter (dir.), Kurt Russell, Wilford Brimley",,,,,,165
+165,Gone with the Wind,1939,,,,"Victor Fleming (dir.), Clark Gable, Vivien Leigh",,,,,,166
+166,Blade Runner,1982,,,,"Ridley Scott (dir.), Harrison Ford, Rutger Hauer",,,,,,167
+167,The Bridge on the River Kwai,1957,,,,"David Lean (dir.), William Holden, Alec Guinness",,,,,,168
+168,Jurassic Park,1993,,,,"Steven Spielberg (dir.), Sam Neill, Laura Dern",,,,,,169
+169,The Third Man,1949,,,,"Carol Reed (dir.), Orson Welles, Joseph Cotten",,,,,,170
+170,On the Waterfront,1954,,,,"Elia Kazan (dir.), Marlon Brando, Karl Malden",,,,,,171
+171,Finding Nemo,2003,,,,"Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",,,,,,172
+172,Smultronstället,1957,,,,"Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",,,,,,173
+173,Fargo,1996,,,,"Joel Coen (dir.), William H. Macy, Frances McDormand",,,,,,174
+174,Gran Torino,2008,,,,"Clint Eastwood (dir.), Clint Eastwood, Bee Vang",,,,,,175
+175,Kill Bill: Vol. 1,2003,,,,"Quentin Tarantino (dir.), Uma Thurman, David Carradine",,,,,,176
+176,Andhadhun,2018,,,,"Sriram Raghavan (dir.), Ayushmann Khurrana, Tabu",,,,,,177
+177,The Deer Hunter,1978,,,,"Michael Cimino (dir.), Robert De Niro, Christopher Walken",,,,,,178
+178,Tôkyô monogatari,1953,,,,"Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",,,,,,179
+179,Eskiya,1996,,,,"Yavuz Turgul (dir.), Sener Sen, Ugur Yücel",,,,,,180
+180,Stalker,1979,,,,"Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy",,,,,,181
+181,The Truman Show,1998,,,,"Peter Weir (dir.), Jim Carrey, Ed Harris",,,,,,182
+182,Relatos salvajes,2014,,,,"Damián Szifron (dir.), Darío Grandinetti, María Marull",,,,,,183
+183,Klaus,2019,,,,"Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",,,,,,184
+184,The Big Lebowski,1998,,,,"Joel Coen (dir.), Jeff Bridges, John Goodman",,,,,,185
+185,Mary and Max,2009,,,,"Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",,,,,,186
+186,Salinui chueok,2003,,,,"Bong Joon Ho (dir.), Kang-ho Song, Sang-kyung Kim",,,,,,187
+187,In the Name of the Father,1993,,,,"Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",,,,,,188
+188,Gone Girl,2014,,,,"David Fincher (dir.), Ben Affleck, Rosamund Pike",,,,,,189
+189,Hacksaw Ridge,2016,,,,"Mel Gibson (dir.), Andrew Garfield, Sam Worthington",,,,,,190
+190,Mr. Smith Goes to Washington,1939,,,,"Frank Capra (dir.), James Stewart, Jean Arthur",,,,,,191
+191,The General,1926,,,,"Clyde Bruckman (dir.), Buster Keaton, Marion Mack",,,,,,192
+192,How to Train Your Dragon,2010,,,,"Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",,,,,,193
+193,The Grand Budapest Hotel,2014,,,,"Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",,,,,,194
+194,Sherlock Jr.,1924,,,,"Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",,,,,,195
+195,Before Sunrise,1995,,,,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",,,,,,196
+196,Persona,1966,,,,"Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",,,,,,197
+197,Catch Me If You Can,2002,,,,"Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",,,,,,198
+198,Prisoners,2013,,,,"Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",,,,,,199
+199,12 Years a Slave,2013,,,,"Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",,,,,,200
+200,Cool Hand Luke,1967,,,,"Stuart Rosenberg (dir.), Paul Newman, George Kennedy",,,,,,201
+201,Into the Wild,2007,,,,"Sean Penn (dir.), Emile Hirsch, Vince Vaughn",,,,,,202
+202,Network,1976,,,,"Sidney Lumet (dir.), Faye Dunaway, William Holden",,,,,,203
+203,Le salaire de la peur,1953,,,,"Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",,,,,,204
+204,Stand by Me,1986,,,,"Rob Reiner (dir.), Wil Wheaton, River Phoenix",,,,,,205
+205,Life of Brian,1979,,,,"Terry Jones (dir.), Graham Chapman, John Cleese",,,,,,206
+206,Mad Max: Fury Road,2015,,,,"George Miller (dir.), Tom Hardy, Charlize Theron",,,,,,207
+207,Barry Lyndon,1975,,,,"Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",,,,,,208
+208,Platoon,1986,,,,"Oliver Stone (dir.), Charlie Sheen, Tom Berenger",,,,,,209
+209,Million Dollar Baby,2004,,,,"Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",,,,,,210
+210,Hachi: A Dog's Tale,2009,,,,"Lasse Hallström (dir.), Richard Gere, Joan Allen",,,,,,211
+211,La passion de Jeanne d'Arc,1928,,,,"Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",,,,,,212
+212,Rush,2013,,,,"Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",,,,,,213
+213,Logan,2017,,,,"James Mangold (dir.), Hugh Jackman, Patrick Stewart",,,,,,214
+214,Ben-Hur,1959,,,,"William Wyler (dir.), Charlton Heston, Jack Hawkins",,,,,,215
+215,Rang De Basanti,2006,,,,"Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan",,,,,,216
+216,Andrei Rublev,1966,,,,"Andrei Tarkovsky (dir.), Anatoliy Solonitsyn, Ivan Lapikov",,,,,,217
+217,Kaze no tani no Naushika,1984,,,,"Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura",,,,,,218
+218,Harry Potter and the Deathly Hallows: Part 2,2011,,,,"David Yates (dir.), Daniel Radcliffe, Emma Watson",,,,,,219
+219,Les quatre cents coups,1959,,,,"François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",,,,,,220
+220,Dead Poets Society,1989,,,,"Peter Weir (dir.), Robin Williams, Robert Sean Leonard",,,,,,221
+221,Hotel Rwanda,2004,,,,"Terry George (dir.), Don Cheadle, Sophie Okonedo",,,,,,222
+222,Amores perros,2000,,,,"Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",,,,,,223
+223,Spotlight,2015,,,,"Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",,,,,,224
+224,Rebecca,1940,,,,"Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",,,,,,225
+225,Rocky,1976,,,,"John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",,,,,,226
+226,The Red Shoes,1948,,,,"Michael Powell (dir.), Anton Walbrook, Marius Goring",,,,,,227
+227,Ah-ga-ssi,2016,,,,"Chan-wook Park (dir.), Min-hee Kim, Jung-woo Ha",,,,,,228
+228,"Monsters, Inc.",2001,,,,"Pete Docter (dir.), Billy Crystal, John Goodman",,,,,,229
+229,Marriage Story,2019,,,,"Noah Baumbach (dir.), Adam Driver, Scarlett Johansson",,,,,,230
+230,Ace in the Hole,1951,,,,"Billy Wilder (dir.), Kirk Douglas, Jan Sterling",,,,,,231
+231,La haine,1995,,,,"Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",,,,,,232
+232,It Happened One Night,1934,,,,"Frank Capra (dir.), Clark Gable, Claudette Colbert",,,,,,233
+233,White Heat,1949,,,,"Raoul Walsh (dir.), James Cagney, Virginia Mayo",,,,,,234
+234,The Princess Bride,1987,,,,"Rob Reiner (dir.), Cary Elwes, Mandy Patinkin",,,,,,235
+235,Lagaan: Once Upon a Time in India,2001,,,,"Ashutosh Gowariker (dir.), Aamir Khan, Raghuvir Yadav",,,,,,236
+236,Gangs of Wasseypur,2012,,,,"Anurag Kashyap (dir.), Manoj Bajpayee, Richa Chadha",,,,,,237
+237,Before Sunset,2004,,,,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",,,,,,238
+238,Faa yeung nin wa,2000,,,,"Kar-Wai Wong (dir.), Tony Chiu-Wai Leung, Maggie Cheung",,,,,,239
+239,The Help,2011,,,,"Tate Taylor (dir.), Emma Stone, Viola Davis",,,,,,240
+240,The Terminator,1984,,,,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",,,,,,241
+241,Butch Cassidy and the Sundance Kid,1969,,,,"George Roy Hill (dir.), Paul Newman, Robert Redford",,,,,,242
+242,"Paris, Texas",1984,,,,"Wim Wenders (dir.), Harry Dean Stanton, Nastassja Kinski",,,,,,243
+243,PK,2014,,,,"Rajkumar Hirani (dir.), Aamir Khan, Anushka Sharma",,,,,,244
+244,Akira,1988,,,,"Katsuhiro Ôtomo (dir.), Mitsuo Iwata, Nozomu Sasaki",,,,,,245
+245,Contratiempo,2016,,,,"Oriol Paulo (dir.), Mario Casas, Ana Wagener",,,,,,246
+246,Aladdin,1992,,,,"Ron Clements (dir.), Scott Weinger, Robin Williams",,,,,,247
+247,Tenkû no shiro Rapyuta,1986,,,,"Hayao Miyazaki (dir.), Anna Paquin, James Van Der Beek",,,,,,248
+248,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,,,,"Hideaki Anno (dir.), Megumi Ogata, Megumi Hayashibara",,,,,,249
+249,Song of the Sea,2014,,,,"Tomm Moore (dir.), David Rawle, Brendan Gleeson",,,,,,250
+250,The Shawshank Redemption,1994,,,,"Frank Darabont (dir.), Tim Robbins, Morgan Freeman",,,,,,251
+251,The Godfather,1972,,,,"Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",,,,,,252
+252,The Godfather: Part II,1974,,,,"Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",,,,,,253
+253,The Dark Knight,2008,,,,"Christopher Nolan (dir.), Christian Bale, Heath Ledger",,,,,,254
+254,12 Angry Men,1957,,,,"Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",,,,,,255
+255,Schindler's List,1993,,,,"Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",,,,,,256
+256,The Lord of the Rings: The Return of the King,2003,,,,"Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",,,,,,257
+257,Pulp Fiction,1994,,,,"Quentin Tarantino (dir.), John Travolta, Uma Thurman",,,,,,258
+258,"Il buono, il brutto, il cattivo",1966,,,,"Sergio Leone (dir.), Clint Eastwood, Eli Wallach",,,,,,259
+259,The Lord of the Rings: The Fellowship of the Ring,2001,,,,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",,,,,,260
+260,Fight Club,1999,,,,"David Fincher (dir.), Brad Pitt, Edward Norton",,,,,,261
+261,Forrest Gump,1994,,,,"Robert Zemeckis (dir.), Tom Hanks, Robin Wright",,,,,,262
+262,Inception,2010,,,,"Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",,,,,,263
+263,Star Wars: Episode V - The Empire Strikes Back,1980,,,,"Irvin Kershner (dir.), Mark Hamill, Harrison Ford",,,,,,264
+264,The Lord of the Rings: The Two Towers,2002,,,,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",,,,,,265
+265,The Matrix,1999,,,,"Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",,,,,,266
+266,Goodfellas,1990,,,,"Martin Scorsese (dir.), Robert De Niro, Ray Liotta",,,,,,267
+267,One Flew Over the Cuckoo's Nest,1975,,,,"Milos Forman (dir.), Jack Nicholson, Louise Fletcher",,,,,,268
+268,Shichinin no samurai,1954,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",,,,,,269
+269,Se7en,1995,,,,"David Fincher (dir.), Morgan Freeman, Brad Pitt",,,,,,270
+270,Cidade de Deus,2002,,,,"Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",,,,,,271
+271,La vita è bella,1997,,,,"Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",,,,,,272
+272,The Silence of the Lambs,1991,,,,"Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",,,,,,273
+273,It's a Wonderful Life,1946,,,,"Frank Capra (dir.), James Stewart, Donna Reed",,,,,,274
+274,Star Wars,1977,,,,"George Lucas (dir.), Mark Hamill, Harrison Ford",,,,,,275
+275,Gisaengchung,2019,,,,"Bong Joon Ho (dir.), Kang-ho Song, Sun-kyun Lee",,,,,,276
+276,Saving Private Ryan,1998,,,,"Steven Spielberg (dir.), Tom Hanks, Matt Damon",,,,,,277
+277,Sen to Chihiro no kamikakushi,2001,,,,"Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",,,,,,278
+278,The Green Mile,1999,,,,"Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",,,,,,279
+279,Interstellar,2014,,,,"Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",,,,,,280
+280,Léon,1994,,,,"Luc Besson (dir.), Jean Reno, Gary Oldman",,,,,,281
+281,The Usual Suspects,1995,,,,"Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",,,,,,282
+282,Seppuku,1962,,,,"Masaki Kobayashi (dir.), Tatsuya Nakadai, Akira Ishihama",,,,,,283
+283,Joker,2019,,,,"Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",,,,,,284
+284,The Lion King,1994,,,,"Roger Allers (dir.), Matthew Broderick, Jeremy Irons",,,,,,285
+285,American History X,1998,,,,"Tony Kaye (dir.), Edward Norton, Edward Furlong",,,,,,286
+286,Back to the Future,1985,,,,"Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",,,,,,287
+287,Terminator 2: Judgment Day,1991,,,,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",,,,,,288
+288,The Pianist,2002,,,,"Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",,,,,,289
+289,Modern Times,1936,,,,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",,,,,,290
+290,Psycho,1960,,,,"Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",,,,,,291
+291,Gladiator,2000,,,,"Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",,,,,,292
+292,City Lights,1931,,,,"Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",,,,,,293
+293,The Intouchables,2011,,,,"Olivier Nakache (dir.), François Cluzet, Omar Sy",,,,,,294
+294,The Departed,2006,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",,,,,,295
+295,Whiplash,2014,,,,"Damien Chazelle (dir.), Miles Teller, J.K. Simmons",,,,,,296
+296,Once Upon a Time in the West,1968,,,,"Sergio Leone (dir.), Henry Fonda, Charles Bronson",,,,,,297
+297,The Prestige,2006,,,,"Christopher Nolan (dir.), Christian Bale, Hugh Jackman",,,,,,298
+298,1917,2019,,,,"Sam Mendes (dir.), Dean-Charles Chapman, George MacKay",,,,,,299
+299,Casablanca,1942,,,,"Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",,,,,,300
+300,Hotaru no haka,1988,,,,"Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",,,,,,301
+301,Rear Window,1954,,,,"Alfred Hitchcock (dir.), James Stewart, Grace Kelly",,,,,,302
+302,Nuovo Cinema Paradiso,1988,,,,"Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",,,,,,303
+303,Alien,1979,,,,"Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",,,,,,304
+304,Raiders of the Lost Ark,1981,,,,"Steven Spielberg (dir.), Harrison Ford, Karen Allen",,,,,,305
+305,Apocalypse Now,1979,,,,"Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",,,,,,306
+306,Memento,2000,,,,"Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",,,,,,307
+307,The Great Dictator,1940,,,,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",,,,,,308
+308,The Lives of Others,2006,,,,"Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",,,,,,309
+309,Django Unchained,2012,,,,"Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",,,,,,310
+310,Avengers: Infinity War,2018,,,,"Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",,,,,,311
+311,Avengers: Endgame,2019,,,,"Anthony Russo (dir.), Robert Downey Jr., Chris Evans",,,,,,312
+312,The Shining,1980,,,,"Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",,,,,,313
+313,Paths of Glory,1957,,,,"Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",,,,,,314
+314,WALL·E,2008,,,,"Andrew Stanton (dir.), Ben Burtt, Elissa Knight",,,,,,315
+315,Spider-Man: Into the Spider-Verse,2018,,,,"Bob Persichetti (dir.), Shameik Moore, Jake Johnson",,,,,,316
+316,Sunset Blvd.,1950,,,,"Billy Wilder (dir.), William Holden, Gloria Swanson",,,,,,317
+317,Mononoke-hime,1997,,,,"Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",,,,,,318
+318,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,,,,"Stanley Kubrick (dir.), Peter Sellers, George C. Scott",,,,,,319
+319,Oldeuboi,2003,,,,"Chan-wook Park (dir.), Min-sik Choi, Ji-Tae Yoo",,,,,,320
+320,Witness for the Prosecution,1957,,,,"Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",,,,,,321
+321,The Dark Knight Rises,2012,,,,"Christopher Nolan (dir.), Christian Bale, Tom Hardy",,,,,,322
+322,Once Upon a Time in America,1984,,,,"Sergio Leone (dir.), Robert De Niro, James Woods",,,,,,323
+323,Aliens,1986,,,,"James Cameron (dir.), Sigourney Weaver, Michael Biehn",,,,,,324
+324,Kimi no na wa.,2016,,,,"Makoto Shinkai (dir.), Ryûnosuke Kamiki, Mone Kamishiraishi",,,,,,325
+325,American Beauty,1999,,,,"Sam Mendes (dir.), Kevin Spacey, Annette Bening",,,,,,326
+326,Coco,2017,,,,"Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",,,,,,327
+327,Braveheart,1995,,,,"Mel Gibson (dir.), Mel Gibson, Sophie Marceau",,,,,,328
+328,Das Boot,1981,,,,"Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",,,,,,329
+329,Tengoku to jigoku,1963,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Yutaka Sada",,,,,,330
+330,3 Idiots,2009,,,,"Rajkumar Hirani (dir.), Aamir Khan, Madhavan",,,,,,331
+331,Star Wars: Episode VI - Return of the Jedi,1983,,,,"Richard Marquand (dir.), Mark Hamill, Harrison Ford",,,,,,332
+332,Toy Story,1995,,,,"John Lasseter (dir.), Tom Hanks, Tim Allen",,,,,,333
+333,Taare Zameen Par,2007,,,,"Aamir Khan (dir.), Darsheel Safary, Aamir Khan",,,,,,334
+334,Amadeus,1984,,,,"Milos Forman (dir.), F. Murray Abraham, Tom Hulce",,,,,,335
+335,Reservoir Dogs,1992,,,,"Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",,,,,,336
+336,Inglourious Basterds,2009,,,,"Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",,,,,,337
+337,Good Will Hunting,1997,,,,"Gus Van Sant (dir.), Robin Williams, Matt Damon",,,,,,338
+338,2001: A Space Odyssey,1968,,,,"Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",,,,,,339
+339,M - Eine Stadt sucht einen Mörder,1931,,,,"Fritz Lang (dir.), Peter Lorre, Ellen Widmann",,,,,,340
+340,Requiem for a Dream,2000,,,,"Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",,,,,,341
+341,Vertigo,1958,,,,"Alfred Hitchcock (dir.), James Stewart, Kim Novak",,,,,,342
+342,Dangal,2016,,,,"Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",,,,,,343
+343,Eternal Sunshine of the Spotless Mind,2004,,,,"Michel Gondry (dir.), Jim Carrey, Kate Winslet",,,,,,344
+344,Citizen Kane,1941,,,,"Orson Welles (dir.), Orson Welles, Joseph Cotten",,,,,,345
+345,Jagten,2012,,,,"Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",,,,,,346
+346,Full Metal Jacket,1987,,,,"Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",,,,,,347
+347,North by Northwest,1959,,,,"Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",,,,,,348
+348,A Clockwork Orange,1971,,,,"Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",,,,,,349
+349,Snatch,2000,,,,"Guy Ritchie (dir.), Jason Statham, Brad Pitt",,,,,,350
+350,The Kid,1921,,,,"Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",,,,,,351
+351,Ladri di biciclette,1948,,,,"Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",,,,,,352
+352,Singin' in the Rain,1952,,,,"Stanley Donen (dir.), Gene Kelly, Donald O'Connor",,,,,,353
+353,Scarface,1983,,,,"Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",,,,,,354
+354,Amélie,2001,,,,"Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",,,,,,355
+355,Taxi Driver,1976,,,,"Martin Scorsese (dir.), Robert De Niro, Jodie Foster",,,,,,356
+356,Lawrence of Arabia,1962,,,,"David Lean (dir.), Peter O'Toole, Alec Guinness",,,,,,357
+357,Toy Story 3,2010,,,,"Lee Unkrich (dir.), Tom Hanks, Tim Allen",,,,,,358
+358,The Sting,1973,,,,"George Roy Hill (dir.), Paul Newman, Robert Redford",,,,,,359
+359,Capharnaüm,2018,,,,"Nadine Labaki (dir.), Zain Al Rafeea, Yordanos Shiferaw",,,,,,360
+360,Metropolis,1927,,,,"Fritz Lang (dir.), Brigitte Helm, Alfred Abel",,,,,,361
+361,Per qualche dollaro in più,1965,,,,"Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",,,,,,362
+362,Jodaeiye Nader az Simin,2011,,,,"Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",,,,,,363
+363,Ikiru,1952,,,,"Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",,,,,,364
+364,Double Indemnity,1944,,,,"Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",,,,,,365
+365,To Kill a Mockingbird,1962,,,,"Robert Mulligan (dir.), Gregory Peck, John Megna",,,,,,366
+366,The Apartment,1960,,,,"Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",,,,,,367
+367,Indiana Jones and the Last Crusade,1989,,,,"Steven Spielberg (dir.), Harrison Ford, Sean Connery",,,,,,368
+368,Incendies,2010,,,,"Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",,,,,,369
+369,Up,2009,,,,"Pete Docter (dir.), Edward Asner, Jordan Nagai",,,,,,370
+370,L.A. Confidential,1997,,,,"Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",,,,,,371
+371,Monty Python and the Holy Grail,1975,,,,"Terry Gilliam (dir.), Graham Chapman, John Cleese",,,,,,372
+372,Heat,1995,,,,"Michael Mann (dir.), Al Pacino, Robert De Niro",,,,,,373
+373,Die Hard,1988,,,,"John McTiernan (dir.), Bruce Willis, Alan Rickman",,,,,,374
+374,Rashômon,1950,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",,,,,,375
+375,Yôjinbô,1961,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",,,,,,376
+376,Batman Begins,2005,,,,"Christopher Nolan (dir.), Christian Bale, Michael Caine",,,,,,377
+377,Unforgiven,1992,,,,"Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",,,,,,378
+378,Green Book,2018,,,,"Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",,,,,,379
+379,Der Untergang,2004,,,,"Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",,,,,,380
+380,Bacheha-Ye aseman,1997,,,,"Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",,,,,,381
+381,Some Like It Hot,1959,,,,"Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",,,,,,382
+382,Hauru no ugoku shiro,2004,,,,"Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",,,,,,383
+383,Idi i smotri,1985,,,,"Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",,,,,,384
+384,The Great Escape,1963,,,,"John Sturges (dir.), Steve McQueen, James Garner",,,,,,385
+385,Tonari no Totoro,1988,,,,"Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",,,,,,386
+386,Ran,1985,,,,"Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",,,,,,387
+387,All About Eve,1950,,,,"Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",,,,,,388
+388,A Beautiful Mind,2001,,,,"Ron Howard (dir.), Russell Crowe, Ed Harris",,,,,,389
+389,Casino,1995,,,,"Martin Scorsese (dir.), Robert De Niro, Sharon Stone",,,,,,390
+390,Pan's Labyrinth,2006,,,,"Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",,,,,,391
+391,Raging Bull,1980,,,,"Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",,,,,,392
+392,El secreto de sus ojos,2009,,,,"Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",,,,,,393
+393,"Lock, Stock and Two Smoking Barrels",1998,,,,"Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",,,,,,394
+394,The Wolf of Wall Street,2013,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",,,,,,395
+395,The Treasure of the Sierra Madre,1948,,,,"John Huston (dir.), Humphrey Bogart, Walter Huston",,,,,,396
+396,Judgment at Nuremberg,1961,,,,"Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",,,,,,397
+397,"Three Billboards Outside Ebbing, Missouri",2017,,,,"Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",,,,,,398
+398,Babam ve Oglum,2005,,,,"Çagan Irmak (dir.), Çetin Tekindor, Fikret Kuskan",,,,,,399
+399,Chinatown,1974,,,,"Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",,,,,,400
+400,There Will Be Blood,2007,,,,"Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",,,,,,401
+401,The Gold Rush,1925,,,,"Charles Chaplin (dir.), Charles Chaplin, Mack Swain",,,,,,402
+402,Dial M for Murder,1954,,,,"Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",,,,,,403
+403,V for Vendetta,2005,,,,"James McTeigue (dir.), Hugo Weaving, Natalie Portman",,,,,,404
+404,Inside Out,2015,,,,"Pete Docter (dir.), Amy Poehler, Bill Hader",,,,,,405
+405,Det sjunde inseglet,1957,,,,"Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",,,,,,406
+406,Warrior,2011,,,,"Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",,,,,,407
+407,Ford v. Ferrari,2019,,,,"James Mangold (dir.), Matt Damon, Christian Bale",,,,,,408
+408,No Country for Old Men,2007,,,,"Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",,,,,,409
+409,Trainspotting,1996,,,,"Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",,,,,,410
+410,The Elephant Man,1980,,,,"David Lynch (dir.), Anthony Hopkins, John Hurt",,,,,,411
+411,Shutter Island,2010,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",,,,,,412
+412,Room,2015,,,,"Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",,,,,,413
+413,The Sixth Sense,1999,,,,"M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",,,,,,414
+414,The Thing,1982,,,,"John Carpenter (dir.), Kurt Russell, Wilford Brimley",,,,,,415
+415,Gone with the Wind,1939,,,,"Victor Fleming (dir.), Clark Gable, Vivien Leigh",,,,,,416
+416,Blade Runner,1982,,,,"Ridley Scott (dir.), Harrison Ford, Rutger Hauer",,,,,,417
+417,The Bridge on the River Kwai,1957,,,,"David Lean (dir.), William Holden, Alec Guinness",,,,,,418
+418,Jurassic Park,1993,,,,"Steven Spielberg (dir.), Sam Neill, Laura Dern",,,,,,419
+419,The Third Man,1949,,,,"Carol Reed (dir.), Orson Welles, Joseph Cotten",,,,,,420
+420,On the Waterfront,1954,,,,"Elia Kazan (dir.), Marlon Brando, Karl Malden",,,,,,421
+421,Finding Nemo,2003,,,,"Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",,,,,,422
+422,Smultronstället,1957,,,,"Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",,,,,,423
+423,Fargo,1996,,,,"Joel Coen (dir.), William H. Macy, Frances McDormand",,,,,,424
+424,Gran Torino,2008,,,,"Clint Eastwood (dir.), Clint Eastwood, Bee Vang",,,,,,425
+425,Kill Bill: Vol. 1,2003,,,,"Quentin Tarantino (dir.), Uma Thurman, David Carradine",,,,,,426
+426,Andhadhun,2018,,,,"Sriram Raghavan (dir.), Ayushmann Khurrana, Tabu",,,,,,427
+427,The Deer Hunter,1978,,,,"Michael Cimino (dir.), Robert De Niro, Christopher Walken",,,,,,428
+428,Tôkyô monogatari,1953,,,,"Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",,,,,,429
+429,Eskiya,1996,,,,"Yavuz Turgul (dir.), Sener Sen, Ugur Yücel",,,,,,430
+430,Stalker,1979,,,,"Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy",,,,,,431
+431,The Truman Show,1998,,,,"Peter Weir (dir.), Jim Carrey, Ed Harris",,,,,,432
+432,Relatos salvajes,2014,,,,"Damián Szifron (dir.), Darío Grandinetti, María Marull",,,,,,433
+433,Klaus,2019,,,,"Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",,,,,,434
+434,The Big Lebowski,1998,,,,"Joel Coen (dir.), Jeff Bridges, John Goodman",,,,,,435
+435,Mary and Max,2009,,,,"Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",,,,,,436
+436,Salinui chueok,2003,,,,"Bong Joon Ho (dir.), Kang-ho Song, Sang-kyung Kim",,,,,,437
+437,In the Name of the Father,1993,,,,"Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",,,,,,438
+438,Gone Girl,2014,,,,"David Fincher (dir.), Ben Affleck, Rosamund Pike",,,,,,439
+439,Hacksaw Ridge,2016,,,,"Mel Gibson (dir.), Andrew Garfield, Sam Worthington",,,,,,440
+440,Mr. Smith Goes to Washington,1939,,,,"Frank Capra (dir.), James Stewart, Jean Arthur",,,,,,441
+441,The General,1926,,,,"Clyde Bruckman (dir.), Buster Keaton, Marion Mack",,,,,,442
+442,How to Train Your Dragon,2010,,,,"Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",,,,,,443
+443,The Grand Budapest Hotel,2014,,,,"Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",,,,,,444
+444,Sherlock Jr.,1924,,,,"Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",,,,,,445
+445,Before Sunrise,1995,,,,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",,,,,,446
+446,Persona,1966,,,,"Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",,,,,,447
+447,Catch Me If You Can,2002,,,,"Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",,,,,,448
+448,Prisoners,2013,,,,"Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",,,,,,449
+449,12 Years a Slave,2013,,,,"Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",,,,,,450
+450,Cool Hand Luke,1967,,,,"Stuart Rosenberg (dir.), Paul Newman, George Kennedy",,,,,,451
+451,Into the Wild,2007,,,,"Sean Penn (dir.), Emile Hirsch, Vince Vaughn",,,,,,452
+452,Network,1976,,,,"Sidney Lumet (dir.), Faye Dunaway, William Holden",,,,,,453
+453,Le salaire de la peur,1953,,,,"Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",,,,,,454
+454,Stand by Me,1986,,,,"Rob Reiner (dir.), Wil Wheaton, River Phoenix",,,,,,455
+455,Life of Brian,1979,,,,"Terry Jones (dir.), Graham Chapman, John Cleese",,,,,,456
+456,Mad Max: Fury Road,2015,,,,"George Miller (dir.), Tom Hardy, Charlize Theron",,,,,,457
+457,Barry Lyndon,1975,,,,"Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",,,,,,458
+458,Platoon,1986,,,,"Oliver Stone (dir.), Charlie Sheen, Tom Berenger",,,,,,459
+459,Million Dollar Baby,2004,,,,"Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",,,,,,460
+460,Hachi: A Dog's Tale,2009,,,,"Lasse Hallström (dir.), Richard Gere, Joan Allen",,,,,,461
+461,La passion de Jeanne d'Arc,1928,,,,"Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",,,,,,462
+462,Rush,2013,,,,"Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",,,,,,463
+463,Logan,2017,,,,"James Mangold (dir.), Hugh Jackman, Patrick Stewart",,,,,,464
+464,Ben-Hur,1959,,,,"William Wyler (dir.), Charlton Heston, Jack Hawkins",,,,,,465
+465,Rang De Basanti,2006,,,,"Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan",,,,,,466
+466,Andrei Rublev,1966,,,,"Andrei Tarkovsky (dir.), Anatoliy Solonitsyn, Ivan Lapikov",,,,,,467
+467,Kaze no tani no Naushika,1984,,,,"Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura",,,,,,468
+468,Harry Potter and the Deathly Hallows: Part 2,2011,,,,"David Yates (dir.), Daniel Radcliffe, Emma Watson",,,,,,469
+469,Les quatre cents coups,1959,,,,"François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",,,,,,470
+470,Dead Poets Society,1989,,,,"Peter Weir (dir.), Robin Williams, Robert Sean Leonard",,,,,,471
+471,Hotel Rwanda,2004,,,,"Terry George (dir.), Don Cheadle, Sophie Okonedo",,,,,,472
+472,Amores perros,2000,,,,"Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",,,,,,473
+473,Spotlight,2015,,,,"Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",,,,,,474
+474,Rebecca,1940,,,,"Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",,,,,,475
+475,Rocky,1976,,,,"John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",,,,,,476
+476,The Red Shoes,1948,,,,"Michael Powell (dir.), Anton Walbrook, Marius Goring",,,,,,477
+477,Ah-ga-ssi,2016,,,,"Chan-wook Park (dir.), Min-hee Kim, Jung-woo Ha",,,,,,478
+478,"Monsters, Inc.",2001,,,,"Pete Docter (dir.), Billy Crystal, John Goodman",,,,,,479
+479,Marriage Story,2019,,,,"Noah Baumbach (dir.), Adam Driver, Scarlett Johansson",,,,,,480
+480,Ace in the Hole,1951,,,,"Billy Wilder (dir.), Kirk Douglas, Jan Sterling",,,,,,481
+481,La haine,1995,,,,"Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",,,,,,482
+482,It Happened One Night,1934,,,,"Frank Capra (dir.), Clark Gable, Claudette Colbert",,,,,,483
+483,White Heat,1949,,,,"Raoul Walsh (dir.), James Cagney, Virginia Mayo",,,,,,484
+484,The Princess Bride,1987,,,,"Rob Reiner (dir.), Cary Elwes, Mandy Patinkin",,,,,,485
+485,Lagaan: Once Upon a Time in India,2001,,,,"Ashutosh Gowariker (dir.), Aamir Khan, Raghuvir Yadav",,,,,,486
+486,Gangs of Wasseypur,2012,,,,"Anurag Kashyap (dir.), Manoj Bajpayee, Richa Chadha",,,,,,487
+487,Before Sunset,2004,,,,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",,,,,,488
+488,Faa yeung nin wa,2000,,,,"Kar-Wai Wong (dir.), Tony Chiu-Wai Leung, Maggie Cheung",,,,,,489
+489,The Help,2011,,,,"Tate Taylor (dir.), Emma Stone, Viola Davis",,,,,,490
+490,The Terminator,1984,,,,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",,,,,,491
+491,Butch Cassidy and the Sundance Kid,1969,,,,"George Roy Hill (dir.), Paul Newman, Robert Redford",,,,,,492
+492,"Paris, Texas",1984,,,,"Wim Wenders (dir.), Harry Dean Stanton, Nastassja Kinski",,,,,,493
+493,PK,2014,,,,"Rajkumar Hirani (dir.), Aamir Khan, Anushka Sharma",,,,,,494
+494,Akira,1988,,,,"Katsuhiro Ôtomo (dir.), Mitsuo Iwata, Nozomu Sasaki",,,,,,495
+495,Contratiempo,2016,,,,"Oriol Paulo (dir.), Mario Casas, Ana Wagener",,,,,,496
+496,Aladdin,1992,,,,"Ron Clements (dir.), Scott Weinger, Robin Williams",,,,,,497
+497,Tenkû no shiro Rapyuta,1986,,,,"Hayao Miyazaki (dir.), Anna Paquin, James Van Der Beek",,,,,,498
+498,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,,,,"Hideaki Anno (dir.), Megumi Ogata, Megumi Hayashibara",,,,,,499
+499,Song of the Sea,2014,,,,"Tomm Moore (dir.), David Rawle, Brendan Gleeson",,,,,,500
+500,The Shawshank Redemption,1994,,,,"Frank Darabont (dir.), Tim Robbins, Morgan Freeman",,,,,,501
+501,The Godfather,1972,,,,"Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",,,,,,502
+502,The Godfather: Part II,1974,,,,"Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",,,,,,503
+503,The Dark Knight,2008,,,,"Christopher Nolan (dir.), Christian Bale, Heath Ledger",,,,,,504
+504,12 Angry Men,1957,,,,"Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",,,,,,505
+505,Schindler's List,1993,,,,"Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",,,,,,506
+506,The Lord of the Rings: The Return of the King,2003,,,,"Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",,,,,,507
+507,Pulp Fiction,1994,,,,"Quentin Tarantino (dir.), John Travolta, Uma Thurman",,,,,,508
+508,"Il buono, il brutto, il cattivo",1966,,,,"Sergio Leone (dir.), Clint Eastwood, Eli Wallach",,,,,,509
+509,The Lord of the Rings: The Fellowship of the Ring,2001,,,,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",,,,,,510
+510,Fight Club,1999,,,,"David Fincher (dir.), Brad Pitt, Edward Norton",,,,,,511
+511,Forrest Gump,1994,,,,"Robert Zemeckis (dir.), Tom Hanks, Robin Wright",,,,,,512
+512,Inception,2010,,,,"Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",,,,,,513
+513,Star Wars: Episode V - The Empire Strikes Back,1980,,,,"Irvin Kershner (dir.), Mark Hamill, Harrison Ford",,,,,,514
+514,The Lord of the Rings: The Two Towers,2002,,,,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",,,,,,515
+515,The Matrix,1999,,,,"Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",,,,,,516
+516,Goodfellas,1990,,,,"Martin Scorsese (dir.), Robert De Niro, Ray Liotta",,,,,,517
+517,One Flew Over the Cuckoo's Nest,1975,,,,"Milos Forman (dir.), Jack Nicholson, Louise Fletcher",,,,,,518
+518,Shichinin no samurai,1954,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",,,,,,519
+519,Se7en,1995,,,,"David Fincher (dir.), Morgan Freeman, Brad Pitt",,,,,,520
+520,Cidade de Deus,2002,,,,"Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",,,,,,521
+521,La vita è bella,1997,,,,"Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",,,,,,522
+522,The Silence of the Lambs,1991,,,,"Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",,,,,,523
+523,It's a Wonderful Life,1946,,,,"Frank Capra (dir.), James Stewart, Donna Reed",,,,,,524
+524,Star Wars,1977,,,,"George Lucas (dir.), Mark Hamill, Harrison Ford",,,,,,525
+525,Gisaengchung,2019,,,,"Bong Joon Ho (dir.), Kang-ho Song, Sun-kyun Lee",,,,,,526
+526,Saving Private Ryan,1998,,,,"Steven Spielberg (dir.), Tom Hanks, Matt Damon",,,,,,527
+527,Sen to Chihiro no kamikakushi,2001,,,,"Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",,,,,,528
+528,The Green Mile,1999,,,,"Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",,,,,,529
+529,Interstellar,2014,,,,"Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",,,,,,530
+530,Léon,1994,,,,"Luc Besson (dir.), Jean Reno, Gary Oldman",,,,,,531
+531,The Usual Suspects,1995,,,,"Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",,,,,,532
+532,Seppuku,1962,,,,"Masaki Kobayashi (dir.), Tatsuya Nakadai, Akira Ishihama",,,,,,533
+533,Joker,2019,,,,"Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",,,,,,534
+534,The Lion King,1994,,,,"Roger Allers (dir.), Matthew Broderick, Jeremy Irons",,,,,,535
+535,American History X,1998,,,,"Tony Kaye (dir.), Edward Norton, Edward Furlong",,,,,,536
+536,Back to the Future,1985,,,,"Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",,,,,,537
+537,Terminator 2: Judgment Day,1991,,,,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",,,,,,538
+538,The Pianist,2002,,,,"Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",,,,,,539
+539,Modern Times,1936,,,,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",,,,,,540
+540,Psycho,1960,,,,"Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",,,,,,541
+541,Gladiator,2000,,,,"Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",,,,,,542
+542,City Lights,1931,,,,"Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",,,,,,543
+543,The Intouchables,2011,,,,"Olivier Nakache (dir.), François Cluzet, Omar Sy",,,,,,544
+544,The Departed,2006,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",,,,,,545
+545,Whiplash,2014,,,,"Damien Chazelle (dir.), Miles Teller, J.K. Simmons",,,,,,546
+546,Once Upon a Time in the West,1968,,,,"Sergio Leone (dir.), Henry Fonda, Charles Bronson",,,,,,547
+547,The Prestige,2006,,,,"Christopher Nolan (dir.), Christian Bale, Hugh Jackman",,,,,,548
+548,1917,2019,,,,"Sam Mendes (dir.), Dean-Charles Chapman, George MacKay",,,,,,549
+549,Casablanca,1942,,,,"Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",,,,,,550
+550,Hotaru no haka,1988,,,,"Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",,,,,,551
+551,Rear Window,1954,,,,"Alfred Hitchcock (dir.), James Stewart, Grace Kelly",,,,,,552
+552,Nuovo Cinema Paradiso,1988,,,,"Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",,,,,,553
+553,Alien,1979,,,,"Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",,,,,,554
+554,Raiders of the Lost Ark,1981,,,,"Steven Spielberg (dir.), Harrison Ford, Karen Allen",,,,,,555
+555,Apocalypse Now,1979,,,,"Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",,,,,,556
+556,Memento,2000,,,,"Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",,,,,,557
+557,The Great Dictator,1940,,,,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",,,,,,558
+558,The Lives of Others,2006,,,,"Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",,,,,,559
+559,Django Unchained,2012,,,,"Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",,,,,,560
+560,Avengers: Infinity War,2018,,,,"Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",,,,,,561
+561,Avengers: Endgame,2019,,,,"Anthony Russo (dir.), Robert Downey Jr., Chris Evans",,,,,,562
+562,The Shining,1980,,,,"Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",,,,,,563
+563,Paths of Glory,1957,,,,"Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",,,,,,564
+564,WALL·E,2008,,,,"Andrew Stanton (dir.), Ben Burtt, Elissa Knight",,,,,,565
+565,Spider-Man: Into the Spider-Verse,2018,,,,"Bob Persichetti (dir.), Shameik Moore, Jake Johnson",,,,,,566
+566,Sunset Blvd.,1950,,,,"Billy Wilder (dir.), William Holden, Gloria Swanson",,,,,,567
+567,Mononoke-hime,1997,,,,"Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",,,,,,568
+568,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,,,,"Stanley Kubrick (dir.), Peter Sellers, George C. Scott",,,,,,569
+569,Oldeuboi,2003,,,,"Chan-wook Park (dir.), Min-sik Choi, Ji-Tae Yoo",,,,,,570
+570,Witness for the Prosecution,1957,,,,"Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",,,,,,571
+571,The Dark Knight Rises,2012,,,,"Christopher Nolan (dir.), Christian Bale, Tom Hardy",,,,,,572
+572,Once Upon a Time in America,1984,,,,"Sergio Leone (dir.), Robert De Niro, James Woods",,,,,,573
+573,Aliens,1986,,,,"James Cameron (dir.), Sigourney Weaver, Michael Biehn",,,,,,574
+574,Kimi no na wa.,2016,,,,"Makoto Shinkai (dir.), Ryûnosuke Kamiki, Mone Kamishiraishi",,,,,,575
+575,American Beauty,1999,,,,"Sam Mendes (dir.), Kevin Spacey, Annette Bening",,,,,,576
+576,Coco,2017,,,,"Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",,,,,,577
+577,Braveheart,1995,,,,"Mel Gibson (dir.), Mel Gibson, Sophie Marceau",,,,,,578
+578,Das Boot,1981,,,,"Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",,,,,,579
+579,Tengoku to jigoku,1963,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Yutaka Sada",,,,,,580
+580,3 Idiots,2009,,,,"Rajkumar Hirani (dir.), Aamir Khan, Madhavan",,,,,,581
+581,Star Wars: Episode VI - Return of the Jedi,1983,,,,"Richard Marquand (dir.), Mark Hamill, Harrison Ford",,,,,,582
+582,Toy Story,1995,,,,"John Lasseter (dir.), Tom Hanks, Tim Allen",,,,,,583
+583,Taare Zameen Par,2007,,,,"Aamir Khan (dir.), Darsheel Safary, Aamir Khan",,,,,,584
+584,Amadeus,1984,,,,"Milos Forman (dir.), F. Murray Abraham, Tom Hulce",,,,,,585
+585,Reservoir Dogs,1992,,,,"Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",,,,,,586
+586,Inglourious Basterds,2009,,,,"Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",,,,,,587
+587,Good Will Hunting,1997,,,,"Gus Van Sant (dir.), Robin Williams, Matt Damon",,,,,,588
+588,2001: A Space Odyssey,1968,,,,"Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",,,,,,589
+589,M - Eine Stadt sucht einen Mörder,1931,,,,"Fritz Lang (dir.), Peter Lorre, Ellen Widmann",,,,,,590
+590,Requiem for a Dream,2000,,,,"Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",,,,,,591
+591,Vertigo,1958,,,,"Alfred Hitchcock (dir.), James Stewart, Kim Novak",,,,,,592
+592,Dangal,2016,,,,"Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",,,,,,593
+593,Eternal Sunshine of the Spotless Mind,2004,,,,"Michel Gondry (dir.), Jim Carrey, Kate Winslet",,,,,,594
+594,Citizen Kane,1941,,,,"Orson Welles (dir.), Orson Welles, Joseph Cotten",,,,,,595
+595,Jagten,2012,,,,"Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",,,,,,596
+596,Full Metal Jacket,1987,,,,"Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",,,,,,597
+597,North by Northwest,1959,,,,"Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",,,,,,598
+598,A Clockwork Orange,1971,,,,"Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",,,,,,599
+599,Snatch,2000,,,,"Guy Ritchie (dir.), Jason Statham, Brad Pitt",,,,,,600
+600,The Kid,1921,,,,"Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",,,,,,601
+601,Ladri di biciclette,1948,,,,"Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",,,,,,602
+602,Singin' in the Rain,1952,,,,"Stanley Donen (dir.), Gene Kelly, Donald O'Connor",,,,,,603
+603,Scarface,1983,,,,"Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",,,,,,604
+604,Amélie,2001,,,,"Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",,,,,,605
+605,Taxi Driver,1976,,,,"Martin Scorsese (dir.), Robert De Niro, Jodie Foster",,,,,,606
+606,Lawrence of Arabia,1962,,,,"David Lean (dir.), Peter O'Toole, Alec Guinness",,,,,,607
+607,Toy Story 3,2010,,,,"Lee Unkrich (dir.), Tom Hanks, Tim Allen",,,,,,608
+608,The Sting,1973,,,,"George Roy Hill (dir.), Paul Newman, Robert Redford",,,,,,609
+609,Capharnaüm,2018,,,,"Nadine Labaki (dir.), Zain Al Rafeea, Yordanos Shiferaw",,,,,,610
+610,Metropolis,1927,,,,"Fritz Lang (dir.), Brigitte Helm, Alfred Abel",,,,,,611
+611,Per qualche dollaro in più,1965,,,,"Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",,,,,,612
+612,Jodaeiye Nader az Simin,2011,,,,"Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",,,,,,613
+613,Ikiru,1952,,,,"Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",,,,,,614
+614,Double Indemnity,1944,,,,"Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",,,,,,615
+615,To Kill a Mockingbird,1962,,,,"Robert Mulligan (dir.), Gregory Peck, John Megna",,,,,,616
+616,The Apartment,1960,,,,"Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",,,,,,617
+617,Indiana Jones and the Last Crusade,1989,,,,"Steven Spielberg (dir.), Harrison Ford, Sean Connery",,,,,,618
+618,Incendies,2010,,,,"Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",,,,,,619
+619,Up,2009,,,,"Pete Docter (dir.), Edward Asner, Jordan Nagai",,,,,,620
+620,L.A. Confidential,1997,,,,"Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",,,,,,621
+621,Monty Python and the Holy Grail,1975,,,,"Terry Gilliam (dir.), Graham Chapman, John Cleese",,,,,,622
+622,Heat,1995,,,,"Michael Mann (dir.), Al Pacino, Robert De Niro",,,,,,623
+623,Die Hard,1988,,,,"John McTiernan (dir.), Bruce Willis, Alan Rickman",,,,,,624
+624,Rashômon,1950,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",,,,,,625
+625,Yôjinbô,1961,,,,"Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",,,,,,626
+626,Batman Begins,2005,,,,"Christopher Nolan (dir.), Christian Bale, Michael Caine",,,,,,627
+627,Unforgiven,1992,,,,"Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",,,,,,628
+628,Green Book,2018,,,,"Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",,,,,,629
+629,Der Untergang,2004,,,,"Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",,,,,,630
+630,Bacheha-Ye aseman,1997,,,,"Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",,,,,,631
+631,Some Like It Hot,1959,,,,"Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",,,,,,632
+632,Hauru no ugoku shiro,2004,,,,"Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",,,,,,633
+633,Idi i smotri,1985,,,,"Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",,,,,,634
+634,The Great Escape,1963,,,,"John Sturges (dir.), Steve McQueen, James Garner",,,,,,635
+635,Tonari no Totoro,1988,,,,"Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",,,,,,636
+636,Ran,1985,,,,"Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",,,,,,637
+637,All About Eve,1950,,,,"Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",,,,,,638
+638,A Beautiful Mind,2001,,,,"Ron Howard (dir.), Russell Crowe, Ed Harris",,,,,,639
+639,Casino,1995,,,,"Martin Scorsese (dir.), Robert De Niro, Sharon Stone",,,,,,640
+640,Pan's Labyrinth,2006,,,,"Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",,,,,,641
+641,Raging Bull,1980,,,,"Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",,,,,,642
+642,El secreto de sus ojos,2009,,,,"Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",,,,,,643
+643,"Lock, Stock and Two Smoking Barrels",1998,,,,"Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",,,,,,644
+644,The Wolf of Wall Street,2013,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",,,,,,645
+645,The Treasure of the Sierra Madre,1948,,,,"John Huston (dir.), Humphrey Bogart, Walter Huston",,,,,,646
+646,Judgment at Nuremberg,1961,,,,"Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",,,,,,647
+647,"Three Billboards Outside Ebbing, Missouri",2017,,,,"Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",,,,,,648
+648,Babam ve Oglum,2005,,,,"Çagan Irmak (dir.), Çetin Tekindor, Fikret Kuskan",,,,,,649
+649,Chinatown,1974,,,,"Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",,,,,,650
+650,There Will Be Blood,2007,,,,"Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",,,,,,651
+651,The Gold Rush,1925,,,,"Charles Chaplin (dir.), Charles Chaplin, Mack Swain",,,,,,652
+652,Dial M for Murder,1954,,,,"Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",,,,,,653
+653,V for Vendetta,2005,,,,"James McTeigue (dir.), Hugo Weaving, Natalie Portman",,,,,,654
+654,Inside Out,2015,,,,"Pete Docter (dir.), Amy Poehler, Bill Hader",,,,,,655
+655,Det sjunde inseglet,1957,,,,"Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",,,,,,656
+656,Warrior,2011,,,,"Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",,,,,,657
+657,Ford v. Ferrari,2019,,,,"James Mangold (dir.), Matt Damon, Christian Bale",,,,,,658
+658,No Country for Old Men,2007,,,,"Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",,,,,,659
+659,Trainspotting,1996,,,,"Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",,,,,,660
+660,The Elephant Man,1980,,,,"David Lynch (dir.), Anthony Hopkins, John Hurt",,,,,,661
+661,Shutter Island,2010,,,,"Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",,,,,,662
+662,Room,2015,,,,"Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",,,,,,663
+663,The Sixth Sense,1999,,,,"M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",,,,,,664
+664,The Thing,1982,,,,"John Carpenter (dir.), Kurt Russell, Wilford Brimley",,,,,,665
+665,Gone with the Wind,1939,,,,"Victor Fleming (dir.), Clark Gable, Vivien Leigh",,,,,,666
+666,Blade Runner,1982,,,,"Ridley Scott (dir.), Harrison Ford, Rutger Hauer",,,,,,667
+667,The Bridge on the River Kwai,1957,,,,"David Lean (dir.), William Holden, Alec Guinness",,,,,,668
+668,Jurassic Park,1993,,,,"Steven Spielberg (dir.), Sam Neill, Laura Dern",,,,,,669
+669,The Third Man,1949,,,,"Carol Reed (dir.), Orson Welles, Joseph Cotten",,,,,,670
+670,On the Waterfront,1954,,,,"Elia Kazan (dir.), Marlon Brando, Karl Malden",,,,,,671
+671,Finding Nemo,2003,,,,"Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",,,,,,672
+672,Smultronstället,1957,,,,"Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",,,,,,673
+673,Fargo,1996,,,,"Joel Coen (dir.), William H. Macy, Frances McDormand",,,,,,674
+674,Gran Torino,2008,,,,"Clint Eastwood (dir.), Clint Eastwood, Bee Vang",,,,,,675
+675,Kill Bill: Vol. 1,2003,,,,"Quentin Tarantino (dir.), Uma Thurman, David Carradine",,,,,,676
+676,Andhadhun,2018,,,,"Sriram Raghavan (dir.), Ayushmann Khurrana, Tabu",,,,,,677
+677,The Deer Hunter,1978,,,,"Michael Cimino (dir.), Robert De Niro, Christopher Walken",,,,,,678
+678,Tôkyô monogatari,1953,,,,"Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",,,,,,679
+679,Eskiya,1996,,,,"Yavuz Turgul (dir.), Sener Sen, Ugur Yücel",,,,,,680
+680,Stalker,1979,,,,"Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy",,,,,,681
+681,The Truman Show,1998,,,,"Peter Weir (dir.), Jim Carrey, Ed Harris",,,,,,682
+682,Relatos salvajes,2014,,,,"Damián Szifron (dir.), Darío Grandinetti, María Marull",,,,,,683
+683,Klaus,2019,,,,"Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",,,,,,684
+684,The Big Lebowski,1998,,,,"Joel Coen (dir.), Jeff Bridges, John Goodman",,,,,,685
+685,Mary and Max,2009,,,,"Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",,,,,,686
+686,Salinui chueok,2003,,,,"Bong Joon Ho (dir.), Kang-ho Song, Sang-kyung Kim",,,,,,687
+687,In the Name of the Father,1993,,,,"Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",,,,,,688
+688,Gone Girl,2014,,,,"David Fincher (dir.), Ben Affleck, Rosamund Pike",,,,,,689
+689,Hacksaw Ridge,2016,,,,"Mel Gibson (dir.), Andrew Garfield, Sam Worthington",,,,,,690
+690,Mr. Smith Goes to Washington,1939,,,,"Frank Capra (dir.), James Stewart, Jean Arthur",,,,,,691
+691,The General,1926,,,,"Clyde Bruckman (dir.), Buster Keaton, Marion Mack",,,,,,692
+692,How to Train Your Dragon,2010,,,,"Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",,,,,,693
+693,The Grand Budapest Hotel,2014,,,,"Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",,,,,,694
+694,Sherlock Jr.,1924,,,,"Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",,,,,,695
+695,Before Sunrise,1995,,,,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",,,,,,696
+696,Persona,1966,,,,"Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",,,,,,697
+697,Catch Me If You Can,2002,,,,"Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",,,,,,698
+698,Prisoners,2013,,,,"Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",,,,,,699
+699,12 Years a Slave,2013,,,,"Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",,,,,,700
+700,Cool Hand Luke,1967,,,,"Stuart Rosenberg (dir.), Paul Newman, George Kennedy",,,,,,701
+701,Into the Wild,2007,,,,"Sean Penn (dir.), Emile Hirsch, Vince Vaughn",,,,,,702
+702,Network,1976,,,,"Sidney Lumet (dir.), Faye Dunaway, William Holden",,,,,,703
+703,Le salaire de la peur,1953,,,,"Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",,,,,,704
+704,Stand by Me,1986,,,,"Rob Reiner (dir.), Wil Wheaton, River Phoenix",,,,,,705
+705,Life of Brian,1979,,,,"Terry Jones (dir.), Graham Chapman, John Cleese",,,,,,706
+706,Mad Max: Fury Road,2015,,,,"George Miller (dir.), Tom Hardy, Charlize Theron",,,,,,707
+707,Barry Lyndon,1975,,,,"Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",,,,,,708
+708,Platoon,1986,,,,"Oliver Stone (dir.), Charlie Sheen, Tom Berenger",,,,,,709
+709,Million Dollar Baby,2004,,,,"Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",,,,,,710
+710,Hachi: A Dog's Tale,2009,,,,"Lasse Hallström (dir.), Richard Gere, Joan Allen",,,,,,711
+711,La passion de Jeanne d'Arc,1928,,,,"Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",,,,,,712
+712,Rush,2013,,,,"Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",,,,,,713
+713,Logan,2017,,,,"James Mangold (dir.), Hugh Jackman, Patrick Stewart",,,,,,714
+714,Ben-Hur,1959,,,,"William Wyler (dir.), Charlton Heston, Jack Hawkins",,,,,,715
+715,Rang De Basanti,2006,,,,"Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan",,,,,,716
+716,Andrei Rublev,1966,,,,"Andrei Tarkovsky (dir.), Anatoliy Solonitsyn, Ivan Lapikov",,,,,,717
+717,Kaze no tani no Naushika,1984,,,,"Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura",,,,,,718
+718,Harry Potter and the Deathly Hallows: Part 2,2011,,,,"David Yates (dir.), Daniel Radcliffe, Emma Watson",,,,,,719
+719,Les quatre cents coups,1959,,,,"François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",,,,,,720
+720,Dead Poets Society,1989,,,,"Peter Weir (dir.), Robin Williams, Robert Sean Leonard",,,,,,721
+721,Hotel Rwanda,2004,,,,"Terry George (dir.), Don Cheadle, Sophie Okonedo",,,,,,722
+722,Amores perros,2000,,,,"Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",,,,,,723
+723,Spotlight,2015,,,,"Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",,,,,,724
+724,Rebecca,1940,,,,"Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",,,,,,725
+725,Rocky,1976,,,,"John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",,,,,,726
+726,The Red Shoes,1948,,,,"Michael Powell (dir.), Anton Walbrook, Marius Goring",,,,,,727
+727,Ah-ga-ssi,2016,,,,"Chan-wook Park (dir.), Min-hee Kim, Jung-woo Ha",,,,,,728
+728,"Monsters, Inc.",2001,,,,"Pete Docter (dir.), Billy Crystal, John Goodman",,,,,,729
+729,Marriage Story,2019,,,,"Noah Baumbach (dir.), Adam Driver, Scarlett Johansson",,,,,,730
+730,Ace in the Hole,1951,,,,"Billy Wilder (dir.), Kirk Douglas, Jan Sterling",,,,,,731
+731,La haine,1995,,,,"Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",,,,,,732
+732,It Happened One Night,1934,,,,"Frank Capra (dir.), Clark Gable, Claudette Colbert",,,,,,733
+733,White Heat,1949,,,,"Raoul Walsh (dir.), James Cagney, Virginia Mayo",,,,,,734
+734,The Princess Bride,1987,,,,"Rob Reiner (dir.), Cary Elwes, Mandy Patinkin",,,,,,735
+735,Lagaan: Once Upon a Time in India,2001,,,,"Ashutosh Gowariker (dir.), Aamir Khan, Raghuvir Yadav",,,,,,736
+736,Gangs of Wasseypur,2012,,,,"Anurag Kashyap (dir.), Manoj Bajpayee, Richa Chadha",,,,,,737
+737,Before Sunset,2004,,,,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",,,,,,738
+738,Faa yeung nin wa,2000,,,,"Kar-Wai Wong (dir.), Tony Chiu-Wai Leung, Maggie Cheung",,,,,,739
+739,The Help,2011,,,,"Tate Taylor (dir.), Emma Stone, Viola Davis",,,,,,740
+740,The Terminator,1984,,,,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",,,,,,741
+741,Butch Cassidy and the Sundance Kid,1969,,,,"George Roy Hill (dir.), Paul Newman, Robert Redford",,,,,,742
+742,"Paris, Texas",1984,,,,"Wim Wenders (dir.), Harry Dean Stanton, Nastassja Kinski",,,,,,743
+743,PK,2014,,,,"Rajkumar Hirani (dir.), Aamir Khan, Anushka Sharma",,,,,,744
+744,Akira,1988,,,,"Katsuhiro Ôtomo (dir.), Mitsuo Iwata, Nozomu Sasaki",,,,,,745
+745,Contratiempo,2016,,,,"Oriol Paulo (dir.), Mario Casas, Ana Wagener",,,,,,746
+746,Aladdin,1992,,,,"Ron Clements (dir.), Scott Weinger, Robin Williams",,,,,,747
+747,Tenkû no shiro Rapyuta,1986,,,,"Hayao Miyazaki (dir.), Anna Paquin, James Van Der Beek",,,,,,748
+748,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,,,,"Hideaki Anno (dir.), Megumi Ogata, Megumi Hayashibara",,,,,,749
+749,Song of the Sea,2014,,,,"Tomm Moore (dir.), David Rawle, Brendan Gleeson",,,,,,750
