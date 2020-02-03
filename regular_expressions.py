@@ -64,3 +64,6 @@ len(re.findall(r'the', processed_book))
 #Replace "i" with "I"
 processed_book = re.sub(r'\si\s', " I ", processed_book)
 print(processed_book)
+
+#find all occurance of text in the format "abc--xyz"
+re.findall(r'[a-zA-Z0-9]*--[a-zA-Z0-9]*', book)
